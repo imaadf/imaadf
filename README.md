@@ -1,1 +1,3 @@
-Hi There 👋
+# Hi There ![Wave](assets/wave.gif)
+
+Student Majoring in Computer Science
