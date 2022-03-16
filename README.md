@@ -1,3 +1,4 @@
-# Hi There ![Wave](assets/wave.gif)
+# Hi There <img src="assets/wave.gif" width="35px">
 
-Student Majoring in Computer Science
+I'm Imaad Farooqui  
+A Student Majoring in Computer Science
