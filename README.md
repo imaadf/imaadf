@@ -1,6 +1,6 @@
 # <Hi There <img src="assets/wave.gif" width="35px"> />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&multiline=true&width=500&height=75&lines=I'm+Imaad;A+Student+Majoring+in+Computer+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3600&multiline=true&width=500&height=75&lines=I'm+Imaad;A+Student+Majoring+in+Computer+Science)](https://git.io/typing-svg)
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
