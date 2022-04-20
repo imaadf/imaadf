@@ -1,7 +1,6 @@
 # <Hi There <img src="assets/wave.gif" width="35px"> />
 
-I'm Imaad  
-A University Student Majoring in Computer Science
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&multiline=true&width=500&height=75&lines=I'm+Imaad;A+Student+Majoring+in+Computer+Science)](https://git.io/typing-svg)
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
